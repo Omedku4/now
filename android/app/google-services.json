@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798590984504",
+    "project_id": "xol-omed",
+    "storage_bucket": "xol-omed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798590984504:android:6fef13d81a951c337221cd",
+        "android_client_info": {
+          "package_name": "com.omed.xol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798590984504-n6r0i3j2ljua5saa1g3br13t98korjn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0sQj1InKgOi_dv2iZnibJVJGazZxZQIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798590984504-n6r0i3j2ljua5saa1g3br13t98korjn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
